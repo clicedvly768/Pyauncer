@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hv6fUXnmjlI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harep\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harep\\.nuget\\packages\\fsharp.core\\9.0.201\\fsharp.core.9.0.201.nupkg.sha512"
+  ],
+  "logs": []
+}
